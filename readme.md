@@ -2,6 +2,8 @@
 
 ### With live updating favicon, also!
 
+> View live here https://organizedfellow.github.io/my-theme-switcher/
+
 It seems that now just about every website has a "Theme Switcher" ability.
 
 Well, here's my version of the same thing 😉
