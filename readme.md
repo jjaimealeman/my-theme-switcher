@@ -22,7 +22,7 @@ But I came up with the favicon switching by sourcing from Stackoverflow, CSS Tri
 
 If you would rather use png to support older browsers, you can use https://convertio.co/svg-png/.
 
-> The one thing I could NOT figure out - how to preload the appropriate favicon based on localStorage. That's why I have favicon.svg set as the default.
+> The one thing I could NOT figure out - _how to preload the appropriate favicon based on localStorage. That's why I have favicon.svg set as the default_. If someone could figure that out for me, that would be awesome!
 
 ---
 
