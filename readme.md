@@ -15,9 +15,9 @@ Well, here's my version of the same thing 😉
         ![icon-moon.svg!](/images/icon-moon.svg "icon-moon.svg")
         ![icon-sun.svg!](/images/icon-sun.svg "icon-sun.svg")
 
-    SVGs have been optimized using https://jakearchibald.github.io/svgomg/.
+    SVGs have been optimized using [jakearchibald.github.io/svgomg](https://jakearchibald.github.io/svgomg/).
 
-    Original source for the theme switcher came from https://lukelowrey.com/css-variable-theme-switcher/.
+    Original source for the theme switcher came from [Luke Lowrey](https://lukelowrey.com/css-variable-theme-switcher/).
 
     But I came up with the favicon switching by sourcing from Stackoverflow, CSS Tricks, and various other places.
 
