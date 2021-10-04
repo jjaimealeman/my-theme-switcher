@@ -2,13 +2,11 @@
 
 ### With live updating favicon, also!
 
----
-
 It seems that now just about every website has a "Theme Switcher" ability.
 
 Well, here's my version of the same thing 😉
 
-SVGs were created in designer.gravit.io
+SVGs were created in https://designer.gravit.io/
 
 -   ![favicon.svg!](/docs/images/favicon.svg "favicon.svg")
 -   ![dark.svg!](/docs/images/dark.svg "dark.svg")
@@ -16,13 +14,13 @@ SVGs were created in designer.gravit.io
 -   ![icon-moon.svg!](/docs/images/icon-moon.svg "icon-moon.svg")
 -   ![icon-sun.svg!](/docs/images/icon-sun.svg "icon-sun.svg")
 
-SVGs have been optimized using [jakearchibald.github.io/svgomg](https://jakearchibald.github.io/svgomg/).
+SVGs have been optimized using https://jakearchibald.github.io/svgomg/.
 
 Original source for the theme switcher came from [Luke Lowrey](https://lukelowrey.com/css-variable-theme-switcher/).
 
 But I came up with the favicon switching by sourcing from Stackoverflow, CSS Tricks, and various other places.
 
-If you would rather use png to support older browsers, you can use [convertio.co/svg-png](https://convertio.co/svg-png/)
+If you would rather use png to support older browsers, you can use https://convertio.co/svg-png/.
 
 > The one thing I could NOT figure out - how to preload the appropriate favicon based on localStorage. That's why I have favicon.svg set as the default.
 
