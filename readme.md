@@ -2,7 +2,7 @@
 
 ### With live updating favicon, also!
 
-> View live here https://organizedfellow.github.io/my-theme-switcher/
+> View live here https://jjaimealeman.github.io/my-theme-switcher/
 
 It seems that now just about every website has a "Theme Switcher" ability.
 
@@ -10,11 +10,11 @@ Well, here's my version of the same thing 😉
 
 SVGs were created in https://designer.gravit.io/
 
--   ![favicon.svg!](/docs/images/favicon.svg "favicon.svg")
--   ![dark.svg!](/docs/images/dark.svg "dark.svg")
--   ![light.svg!](/docs/images/light.svg "light.svg")
--   ![icon-moon.svg!](/docs/images/icon-moon.svg "icon-moon.svg")
--   ![icon-sun.svg!](/docs/images/icon-sun.svg "icon-sun.svg")
+- ![favicon.svg!](/docs/images/favicon.svg "favicon.svg")
+- ![dark.svg!](/docs/images/dark.svg "dark.svg")
+- ![light.svg!](/docs/images/light.svg "light.svg")
+- ![icon-moon.svg!](/docs/images/icon-moon.svg "icon-moon.svg")
+- ![icon-sun.svg!](/docs/images/icon-sun.svg "icon-sun.svg")
 
 SVGs have been optimized using https://jakearchibald.github.io/svgomg/.
 
