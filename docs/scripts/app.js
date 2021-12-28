@@ -8,7 +8,7 @@ toggleTheme.onclick = function () {
     const currentIcon = changeFavicon.getAttribute("href");
     let targetTheme = "light";
     let targetIcon = "images/light.svg";
-    if (currentTheme === "light" && currentIcon === "images/light.svg") {
+    if (currentTheme === "light" && (currentIcon === 'images/light.svg' || currentIcon === 'images/favicon.svg')) {
         targetTheme = "dark";
         targetIcon = "images/dark.svg"
     }
@@ -19,6 +19,6 @@ toggleTheme.onclick = function () {
 };
 
 
-// Change the favicon based on theme switch :) 
+// Change the favicon based on theme switch :)
 const toggleIcon = document.getElementById("icon-toggle")
 const changeFavicon = document.querySelector("link[type='image/svg+xml");
