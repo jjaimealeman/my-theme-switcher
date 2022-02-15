@@ -103,6 +103,7 @@ li > img {
 }
 code {
     background: #ccc;
+    color: #555;
     border-radius: 4px;
     padding: 3px 5px;
 }
